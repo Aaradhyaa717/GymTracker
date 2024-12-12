@@ -75,4 +75,7 @@ This backend provides RESTful APIs for managing users and their exercises in a g
 - *Flask*: Lightweight framework for REST API development.
 - *SQLite*: Simple and efficient database management system.
 
-
+### Contributors:
+1) Aaradhyaa Gyawali
+2) Raman Khanal
+3) Bobur Poudel
